@@ -117,6 +117,10 @@ common_response_fields:
       type: integer
     jsonrpc:
       type: string
+    arbType:
+      type: string
+    arbSubtype: 
+      type: string
 hash_number_transactionIndex:
   type: object
   properties:
